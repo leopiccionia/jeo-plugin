@@ -25,7 +25,6 @@ You can post geotagged stories and create richly designed pages for each one of 
 ### Layers
 
 - [Creating layers](layer-post.md)
-- [Carto integration process](carto.md)
 
 ### Maps
 

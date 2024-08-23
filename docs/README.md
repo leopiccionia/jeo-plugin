@@ -13,8 +13,7 @@ JEO wants to help journalists and NGOs to improve storytelling with maps. Creati
 - Leaflet map library
 - Custom tile layers
 - [MapBox](http://mapbox.com/) maps
-- [CartoDB](http://cartodb.com/) maps
-- Layer filtering options, allowing you to mix tile layer, MapBox and CartoDB.
+- Layer filtering options, allowing you to mix tile layer and MapBox.
 - Geocoding WordPress posts using OpenStreetMaps or Google Maps supporting custom post types.
 - Google Street View support for Google Maps geocoding.
 - Customizable marker icons that can be associated to categories, custom taxonomies or posts directly.

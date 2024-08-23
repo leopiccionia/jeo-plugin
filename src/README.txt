@@ -327,7 +327,7 @@ To add a new layer type, there are 2 simple steps:
 1. Register the new Layer type using a PHP hook, informing where is the main JavaScript file of your Layer Type;
 2. Create a JavaScript class implementing methods to add the layer to the map and to describe what are the options a layer of this type has.
 
-In short, this is all that is needed to do. In some cases, however, you might need to add extra dependencies to the project. For example, to create a Layer Type to support Carto's vector layers, we might want to add CartoVL (which is an extension to MapboxGL) to the project.
+In short, this is all that is needed to do. In some cases, however, you might need to add extra dependencies to the project.
 
 ## Creating a new Layer Type
 
